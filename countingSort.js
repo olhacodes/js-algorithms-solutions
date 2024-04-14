@@ -1,5 +1,6 @@
-/*
- * Complete the 'countingSort' function below.
+/* 
+ * https://www.hackerrank.com/interview/preparation-kits/one-week-preparation-kit/one-week-day-two/challenges 
+ Complete the 'countingSort' function below.
  *
  * The function is expected to return an INTEGER_ARRAY.
  * The function accepts INTEGER_ARRAY arr as parameter.
