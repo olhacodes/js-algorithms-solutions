@@ -1,1 +1,1 @@
-HackerRank JS algorithms solutions
+JS algorithms solutions
